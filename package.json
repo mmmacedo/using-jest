@@ -24,9 +24,6 @@
   "homepage": "https://github.com/mmmacedo/using-jest#readme",
   "license": "MIT",
   "devDependencies": {
-    "babel-jest": "^24.8.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
     "enzyme": "^3.10.0",
     "enzyme-to-json": "^3.3.5",
     "isomorphic-fetch": "^2.2.1",
@@ -34,7 +31,6 @@
     "nock": "^10.0.6",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-addons-test-utils": "^15.6.2",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
     "redux": "^4.0.4",
@@ -43,12 +39,10 @@
     "sinon": "^7.3.2"
   },
   "dependencies": {
-    "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
     "@babel/preset-env": "^7.5.5",
     "@babel/preset-react": "^7.0.0",
-    "babel-plugin-lodash": "^3.3.4",
-    "babel-plugin-react-transform": "^3.0.0",
+    "babel-jest": "^24.8.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "react-scripts": "^3.0.1"
   },
